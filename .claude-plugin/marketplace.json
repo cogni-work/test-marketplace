@@ -1,0 +1,13 @@
+{
+  "name": "test-marketplace",
+  "owner": {
+    "name": "cogni-work"
+  },
+  "plugins": [
+    {
+      "name": "test-language",
+      "source": "./test-language",
+      "description": "Translates user input to a randomly chosen language and provides cultural context about the country where that language is spoken."
+    }
+  ]
+}
