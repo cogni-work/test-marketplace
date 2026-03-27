@@ -1,0 +1,8 @@
+{
+  "name": "test-language",
+  "version": "0.1.0",
+  "description": "Translates user input to a randomly chosen language and explains cultural context about the country where that language is spoken.",
+  "author": {
+    "name": "Stephan de Haas"
+  }
+}
